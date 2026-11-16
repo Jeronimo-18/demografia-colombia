@@ -1,0 +1,28 @@
+# Archivos locales de R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Credenciales y configuración local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencias y compilados de Observable Framework
+**/node_modules/
+**/dist/
+dashboard_observable/src/.observablehq/cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales y logs
+*.tmp
+*.temp
+*.log
+*~

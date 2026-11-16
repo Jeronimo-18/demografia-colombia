@@ -1,0 +1,7 @@
+componente,valor,anio_pico,pob_pico,desplaza_anios,cambio_pob_pico_pct
+Fecundidad (TGF largo plazo),1,2035,52478940.209604315,-8,-1.5367211242835133
+Fecundidad (TGF largo plazo),1.8,2048,54262283.25555918,5,1.8092649601074928
+Mortalidad (factor de riesgo),0.9,2044,53776613.085860826,1,0.8980293831383879
+Mortalidad (factor de riesgo),1.1,2041,52875662.98608864,-2,-0.7923725299463169
+Migración (factor sobre el saldo),0,2043,53430147.4437408,0,0.24797541854491012
+Migración (factor sobre el saldo),2,2042,53171034.746645115,-1,-0.23818313672452351

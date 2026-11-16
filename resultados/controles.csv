@@ -1,0 +1,30 @@
+etapa,control,ok,detalle
+dane,filas poblacion,TRUE,(24038)
+dane,sin vacíos poblacion,TRUE,
+dane,filas totales_oficiales,TRUE,(119)
+dane,sin vacíos totales_oficiales,TRUE,
+dane,filas asfr,TRUE,(2120)
+dane,sin vacíos asfr,TRUE,
+dane,filas tgf,TRUE,(53)
+dane,sin vacíos tgf,TRUE,
+dane,filas mortalidad,TRUE,(10706)
+dane,sin vacíos mortalidad,TRUE,
+dane,filas migracion,TRUE,(21412)
+dane,sin vacíos migracion,TRUE,
+dane,filas tablas_vida,TRUE,(12614)
+dane,sin vacíos tablas_vida,TRUE,
+dane,población suma el total oficial,TRUE,
+dane,pico DANE = 2043,TRUE,"(2043: 56,048,194)"
+regional,22 regiones,TRUE,(22)
+regional,años 2018-2050,TRUE,
+regional,sin vacíos,TRUE,
+regional,suma = total oficial regional,TRUE,
+regional,regiones suman el nacional,TRUE,
+eevv,total Cuadro 1 = total DANE,TRUE,
+eevv,grupos de edad suman el total,TRUE,
+eevv,hombres+mujeres+indet = total,TRUE,
+eevv,Cuadro 7A = Cuadro 1,TRUE,
+eevv,cada depto suma su total,TRUE,(280 de 280)
+eevv,sin vacíos,TRUE,
+fecundidad,"TGF 2025 EEVV ≈ 1,03",TRUE,
+fecundidad,variantes de 50-54/sin_info cambian la TGF poco,TRUE,(máx 0.006)

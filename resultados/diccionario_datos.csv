@@ -1,0 +1,16 @@
+archivo,columnas,descripcion
+datos_limpios/poblacion_limpia.csv,"anio, area, sexo, edad, poblacion",Población proyectada nacional 2018-2070; edad 100 = 100+; cabecera/centros_poblados_rural solo a 2050
+datos_limpios/totales_oficiales_limpia.csv,"anio, area, total, hombres, mujeres",Totales oficiales DANE (control)
+datos_limpios/asfr_limpia.csv,"anio, edad, tasa","Tasa de fecundidad por edad (10-49), proyección DANE"
+datos_limpios/tgf_limpia.csv,"anio, tgf_dane","Hijos por mujer, proyección DANE"
+datos_limpios/mortalidad_limpia.csv,"anio, sexo, edad, mx",Tasa de mortalidad por sexo y edad
+datos_limpios/migracion_limpia.csv,"anio, sexo, tipo, edad, saldo",Migración neta; usar tipo = internacional
+datos_limpios/tablas_vida_limpia.csv,"anio, sexo, tipo_tabla, edad, qx, dx, mx, lx, nLx, sx, Tx, ex",Tablas de vida completas y abreviadas
+datos_limpios/eevv_nacional.csv,"anio, grupo_edad, nacimientos, hombres, mujeres, indeterminado",Nacimientos EEVV 2018-2025 por edad de la madre
+datos_limpios/eevv_departamental.csv,"anio, cod_dpto, departamento, grupo_edad, nacimientos, total_depto","Nacimientos por departamento de residencia de la madre (EX = exterior, SI = sin información)"
+datos_limpios/poblacion_regional_2018_2050_limpia.csv,"sigla, territorio, anio, area, sexo, edad, poblacion",Población por 22 regiones (solo si existe el Excel regional)
+resultados/serie_dane_poblacion_total.csv,"anio, poblacion_dane",Serie de población total DANE (pico 2043)
+resultados/tgf_calculada_vs_dane.csv,"anio, tgf_eevv, tgf_dane, razon",TGF calculada con EEVV vs proyectada por el DANE
+resultados/fecundidad_calculada_vs_dane.csv,"anio, grupo, tasa_eevv, tasa_dane, razon",Tasas por grupo quinquenal
+resultados/sensibilidad_tgf_tratamiento.csv,"sumar_50_54, repartir_sin_info, anio, tgf_eevv",TGF según el tratamiento de 50-54 y sin información
+resultados/controles.csv,"etapa, control, ok, detalle",Todos los controles de este flujo
